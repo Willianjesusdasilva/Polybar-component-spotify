@@ -4,10 +4,10 @@
 This guide provides instructions on how to install and configure a Spotify module for Polybar. The module allows you to display the current Spotify status, control playback, and show the currently playing track.
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/Willianjesusdasilva/Polybar-component-spotify/blob/32c4b56a89f1f7cdefe9e90a2e4731b002a00022/src/example.gif"> 
+    <img src="https://github.com/Willianjesusdasilva/Polybar-component-spotify/blob/32c4b56a89f1f7cdefe9e90a2e4731b002a00022/src/example.gif"> 
 </p>
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/Willianjesusdasilva/Polybar-component-spotify/blob/a1c98fdc669a52cf380f252be563311549d787e6/src/example_zoom.gif"> 
+    <img src="https://github.com/Willianjesusdasilva/Polybar-component-spotify/blob/a1c98fdc669a52cf380f252be563311549d787e6/src/example_zoom.gif"> 
 </p>
 
 ### Prerequisites
